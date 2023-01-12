@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @PraneshMuthurajan
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Python, HTML, CSS, PHP, MySQL and Javascript
+- 👀 I’m interested in coding and designing.
+- 🌱 Languages I know are Python, Java, HTML and CSS.
+- Currently learning MySQL, PHP and Javascript.
+- I also have basic knowledge in Adobe Animate, Photoshop and currently learning Adobe Illustrator!
 
 <!---
 PraneshMuthurajan/PraneshMuthurajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
